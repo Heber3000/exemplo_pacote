@@ -1,8 +1,7 @@
 def palavra_inversa(palavra):
-    return palavra[::-1]
+    return str(palavra[::-1])
+
 
 
 if __name__ == '__main__':
     print(palavra_inversa('palavra'))
-
-

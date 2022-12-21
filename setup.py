@@ -96,7 +96,7 @@ def find_package_data(
 
 PACKAGE = "exemplo_pacote"
 NAME = PACKAGE
-DESCRIPTION = "Teste de publicação do pacote"
+DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "Heber Levy de Almeida"
 AUTHOR_EMAIL = "heberlevy@gmail.com"
 URL = "https://github.com/Heber3000/exemplo_pacote"

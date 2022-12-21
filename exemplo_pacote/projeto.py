@@ -1,8 +1,6 @@
-def palavra_inversa(palavra:str):
-    return palavra[::-1]
-
-
+def soma(a,b):
+    return a+b
 
 
 if __name__ == '__main__':
-    print(palavra_inversa('palavra'))
+    print(soma(2,3))
